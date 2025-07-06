@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-submenus",
-          title: "submenus",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/_pages/dropdown/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -445,7 +438,7 @@ ninja.data = [{
               window.location.href = "/projects/4_project/";
             },},{id: "projects-population-genetics-of-an-invasive-bumblebee",
           title: 'Population genetics of an invasive bumblebee',
-          description: "coming soon",
+          description: "Project Lead: Jonathan Koch",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-plant-pollinator-networks-under-species-invasion",
