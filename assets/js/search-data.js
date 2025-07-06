@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Past and ongoing research projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -451,51 +451,51 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-bumble-bee-movement-in-agricultural-landscapes",
+          title: 'Bumble bee movement in agricultural landscapes',
+          description: "coming soon",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-species-invasions-and-bumblebee-disease-ecology",
+          title: 'Species invasions and bumblebee disease ecology',
+          description: "coming soon",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-spatiotemporal-patterns-of-pesticide-exposure-in-a-regionally-critical-pollinator",
+          title: 'Spatiotemporal patterns of pesticide exposure in a regionally critical pollinator',
+          description: "coming soon",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-bumble-bee-diet-diversity-and-nutritional-ecology",
+          title: 'Bumble bee diet diversity and nutritional ecology',
+          description: "coming soon",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-population-genetics-of-an-invasive-bumblebee",
+          title: 'Population genetics of an invasive bumblebee',
+          description: "coming soon",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-plant-pollinator-networks-and-species-invasion",
+          title: 'Plant-pollinator networks and species invasion',
+          description: "Project Lead(s): Susan M. Waters, Lauren C. Ponisio",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-odonate-diets-in-agroecosystems",
+          title: 'Odonate diets in agroecosystems',
+          description: "Project Lead: Rassim Khelifa",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/projects/8_project.md.bak/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/9_project.md.bak/";
             },},{
         id: 'social-email',
         title: 'email',
