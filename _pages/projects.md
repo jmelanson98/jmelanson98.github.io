@@ -5,7 +5,7 @@ permalink: /projects/
 description: Past and ongoing research projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [thesis, collaboration]
 horizontal: false
 ---
 

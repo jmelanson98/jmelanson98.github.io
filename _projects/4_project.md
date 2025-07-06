@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Bumble bee diet diversity and nutritional ecology
+title: Bumble bee nutritional ecology
 description: coming soon
 img:
-importance: 3
-category: work
+importance: 4
+category: thesis
 ---
 
 Every project has a beautiful feature showcase page.

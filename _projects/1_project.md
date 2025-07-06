@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bumble bee movement in agricultural landscapes
+title: Bumble bee movement in agroecosystems
 description: coming soon
 img: assets/img/12.jpg
 importance: 1

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Plant-pollinator networks and species invasion
+title: Plant-pollinator networks under species invasion
 description: "Project Lead(s): Susan M. Waters, Lauren C. Ponisio"
 img:
-importance: 4
-category: fun
+importance: 6
+category: collaboration
 ---
 
 Every project has a beautiful feature showcase page.

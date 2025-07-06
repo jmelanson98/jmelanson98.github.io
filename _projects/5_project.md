@@ -3,8 +3,8 @@ layout: page
 title: Population genetics of an invasive bumblebee
 description: coming soon
 img: assets/img/1.jpg
-importance: 3
-category: work
+importance: 5
+category: collaboration
 ---
 
 Every project has a beautiful feature showcase page.

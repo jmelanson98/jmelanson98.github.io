@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Spatiotemporal patterns of pesticide exposure in a regionally critical pollinator
+title: Spatiotemporal patterns of pesticide exposure
 description: coming soon
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: thesis
 ---
 
 Every project has a beautiful feature showcase page.

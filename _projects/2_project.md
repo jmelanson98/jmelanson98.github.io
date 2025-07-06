@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Species invasions and bumblebee disease ecology
+title: Species invasion and disease ecology
 description: coming soon
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: thesis
 giscus_comments: true
 ---
 
