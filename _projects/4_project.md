@@ -8,30 +8,44 @@ category: thesis
 ---
 
 
-
-
-<figure class="figure">
-  <video class="img-fluid rounded z-depth-1" controls preload="auto">
-    <source src="assets/videos/hungry_melanopygus.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <figcaption class="figure-caption text-center">A day in the life of a hungry bumblebee (*Bombus melanopygus*)</figcaption>
-</figure>
-
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/huntii.HEIC" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/melanopygus.HEIC" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/funpollen.HEIC" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/eattherainbow.HEIC" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Eat the rainbow! Bumblebees rely on diverse pollen sources to provision their young. Pollen quality and diversity are important for colony development, immunity, and more.
 </div>
+
+
+
+<figure class="figure">
+  <video 
+    width="100%" 
+    height="auto" 
+    class="img-fluid rounded z-depth-1"
+    autoplay 
+    loop 
+    muted 
+    playsinline
+  >
+    <source src="/assets/videos/hungry_melanopygus.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption class="figure-caption text-center">
+    A day in the life of a hungry bumblebee (<em>Bombus melanopygus</em> on <em>Rhododendron spp.</em>.)
+  </figcaption>
+</figure>
+
+
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

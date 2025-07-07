@@ -5,7 +5,6 @@ description: coming soon
 img: assets/img/impatiens.heic
 importance: 2
 category: thesis
-giscus_comments: true
 ---
 
 <div class="row">
@@ -27,10 +26,10 @@ giscus_comments: true
 
 <figure class="figure">
   <video class="img-fluid rounded z-depth-1" controls preload="auto">
-    <source src="assets/videos/impatiens_blackberry.mp4" type="video/mp4">
+    <source src="assets/img/impatiens_blackberry.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <figcaption class="figure-caption text-center">One video, two invasive species (*Bombus impatiens* on *Rubus armeniacus.*)</figcaption>
+  <figcaption class="figure-caption text-center">One video, two invasive species (<em>Bombus impatiens</em> on <em>Rubus armeniacus.</em>)</figcaption>
 </figure>
 
 
