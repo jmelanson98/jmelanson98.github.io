@@ -9,13 +9,13 @@ category: thesis
 
 
 <div class="row">
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/melanopygus.HEIC" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/funpollen.HEIC" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/eattherainbow.HEIC" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -35,7 +35,7 @@ category: thesis
     muted 
     playsinline
   >
-    <source src="/assets/videos/hungry_melanopygus.mp4" type="video/mp4">
+    <source src="assets/img/hungry_melanopygus.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <figcaption class="figure-caption text-center">
