@@ -26,7 +26,7 @@ category: thesis
 
 <figure class="figure">
   <video class="img-fluid rounded z-depth-1" controls preload="auto">
-    <source src="assets/img/impatiens_blackberry.mp4" type="video/mp4">
+    <source src="/assets/img/impatiens_blackberry.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <figcaption class="figure-caption text-center">One video, two invasive species (<em>Bombus impatiens</em> on <em>Rubus armeniacus.</em>)</figcaption>
