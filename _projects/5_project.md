@@ -2,7 +2,7 @@
 layout: page
 title: Population genetics of an invasive bumblebee
 description: "Project Lead: Jonathan Koch"
-img: assets/img/1.jpg
+img: assets/img/impatiens_tubed.HEIC
 importance: 5
 category: collaboration
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Species invasion and disease ecology
 description: coming soon
-img: assets/img/3.jpg
+img: assets/img/impatiens.heic
 importance: 2
 category: thesis
 giscus_comments: true
@@ -22,6 +22,22 @@ giscus_comments: true
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
+
+
+
+<figure class="figure">
+  <video class="img-fluid rounded z-depth-1" controls preload="auto">
+    <source src="assets/videos/impatiens_blackberry.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption class="figure-caption text-center">One video, two invasive species (*Bombus impatiens* on *Rubus armeniacus.*)</figcaption>
+</figure>
+
+
+
+
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

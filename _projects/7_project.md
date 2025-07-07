@@ -2,7 +2,7 @@
 layout: page
 title: Odonate diets in agroecosystems
 description: "Project Lead: Rassim Khelifa"
-img: assets/img/4.jpg
+img:
 importance: 1
 category: collaboration
 related_publications: true

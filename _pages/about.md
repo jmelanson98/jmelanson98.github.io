@@ -6,14 +6,14 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts.
 
 profile:
   align: right
-  image: 
+  image: jenna_portrait_03-scaled.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Biodiversity Research Center</p>
     <p>2212 Main Mall</p>
     <p>Vancouver, BC, Canada V6T 1Z4</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -30,6 +30,7 @@ latest_posts:
 Coming soon!
 
 {% comment %}
+Hello! I am a PhD student at the University of British Columbia, supervised by Professor Claire Kremen. My research addresses the behavioral responses (foraging, dispersal, colony productivity/turnover) of bumble bees in response to landscape-scale agricultural diversification, as well as risks/rewards associated with these behaviors (diet composition, pesticide exposure). Broadly speaking, I hope to learn which factors allow pollinators to persist (or not) in agricultural landscapes and how these parameters are related to land management. Prior to beginning my PhD at UBC, I received a B.S. in biological engineering at MIT, and enjoy using my molecular biology background to address applied ecological questions.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

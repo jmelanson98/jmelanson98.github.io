@@ -2,7 +2,7 @@
 layout: page
 title: Bumble bee movement in agroecosystems
 description: coming soon
-img: assets/img/12.jpg
+img: assets/img/beemath.JPG
 importance: 1
 category: thesis
 related_publications: true

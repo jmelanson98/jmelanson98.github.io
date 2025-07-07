@@ -2,8 +2,7 @@
 layout: page
 title: Spatiotemporal patterns of pesticide exposure
 description: coming soon
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/mass-spec.HEIC
 importance: 3
 category: thesis
 ---
