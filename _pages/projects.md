@@ -2,12 +2,23 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Past and ongoing research projects.
+description: 
 nav: true
 nav_order: 3
-display_categories: [thesis, collaboration]
+display_categories: [ongoing, past]
 horizontal: false
 ---
+
+
+Welcome to my projects directory! Below you can find some quick blog-style posts summarizing my past and ongoing work. Completed or nearing-completion projects may include results, but see the "publications" tab for a full list of peer-reviewed manuscripts and preprints.
+
+<style>
+  .project-thumb {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+  }
+</style>
 
 <!-- pages/projects.md -->
 <div class="projects">

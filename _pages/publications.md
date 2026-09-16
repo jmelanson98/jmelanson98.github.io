@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+Please contact me (jenna.melanson at ubc dot ca) to request pdfs/code/data for any published manuscripts. I aim to always have these publicly accessible, but of course it is easy to get behind!
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->

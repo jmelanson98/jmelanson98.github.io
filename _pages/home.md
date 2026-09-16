@@ -32,6 +32,7 @@ hide_title: true
 </div>
 
 
+{% comment %}
 <div class="projects">
   {% if page.display_categories %}
     {% for category in page.display_categories %}
@@ -82,3 +83,9 @@ hide_title: true
     {% endif %}
   {% endif %}
 </div>
+
+
+"The bee's life is like a magic well: the more you draw from it, the more it fills with water."
+
+-Karl von Frisch
+{% endcomment %}
